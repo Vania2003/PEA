@@ -1,0 +1,2 @@
+Nazwa instancji	Wynik optymalny	Sciezka optymalna	Minimalny koszt	Blad bezwzgledny	Blad wzgledny (%)	Czasy wykonania (s)	Sredni czas (s)
+tsp\tsp_12.txt	264	0 -> 1 -> 8 -> 4 -> 6 -> 2 -> 11 -> 9 -> 7 -> 5 -> 3 -> 10 -> 0	264	0	0.0000	0.0001 	0.0001

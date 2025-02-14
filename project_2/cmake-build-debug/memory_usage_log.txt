@@ -1,0 +1,5 @@
+Memory Profiling Log
+====================
+After Config Read : Memory usage: 3 MB
+After Matrix Read : Memory usage: 3 MB
+After Algorithm Run 1 : Memory usage: 3 MB

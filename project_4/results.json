@@ -1,0 +1,58 @@
+[
+    {
+        "instance": "D:\\project_4\\tsp\\tsp_10.txt",
+        "output": "-------------------------------------\nNazwa pliku z danymi: D:\\\\project_4\\\\tsp\\\\tsp_10.txt\nMinimalny koszt: 212\nBlad bezwzgledny: 0\nBlad wzgledny: 0.0000%\nCzas calkowity: 247.6537 ms\nCzas sredni: 247.6537 ms\nSciezka dla rozwiazania: 8 -> 2 -> 4 -> 3 -> 0 -> 5 -> 1 -> 9 -> 6 -> 7 -> 8\n-------------------------------------\n"
+    },
+    {
+        "instance": "D:\\project_4\\tsp\\tsp_12.txt",
+        "output": "-------------------------------------\nNazwa pliku z danymi: D:\\\\project_4\\\\tsp\\\\tsp_12.txt\nMinimalny koszt: 264\nBlad bezwzgledny: 0\nBlad wzgledny: 0.0000%\nCzas calkowity: 268.5366 ms\nCzas sredni: 268.5366 ms\nSciezka dla rozwiazania: 0 -> 1 -> 8 -> 4 -> 6 -> 2 -> 11 -> 9 -> 7 -> 5 -> 3 -> 10 -> 0\n-------------------------------------\n"
+    },
+    {
+        "instance": "D:\\project_4\\tsp\\gr21.txt",
+        "output": "-------------------------------------\nNazwa pliku z danymi: D:\\\\project_4\\\\tsp\\\\gr21.txt\nMinimalny koszt: 2707\nBlad bezwzgledny: 0\nBlad wzgledny: 0.0000%\nCzas calkowity: 457.3247 ms\nCzas sredni: 457.3247 ms\n-------------------------------------\n"
+    },
+    {
+        "instance": "D:\\project_4\\tsp\\gr24.txt",
+        "output": "-------------------------------------\nNazwa pliku z danymi: D:\\\\project_4\\\\tsp\\\\gr24.txt\nMinimalny koszt: 1272\nBlad bezwzgledny: 0\nBlad wzgledny: 0.0000%\nCzas calkowity: 516.0161 ms\nCzas sredni: 516.0161 ms\n-------------------------------------\n"
+    },
+    {
+        "instance": "D:\\project_4\\tsp\\gr96.txt",
+        "output": "-------------------------------------\nNazwa pliku z danymi: D:\\\\project_4\\\\tsp\\\\gr96.txt\nMinimalny koszt: 163335\nBlad bezwzgledny: 108126\nBlad wzgledny: 195.8485%\nCzas calkowity: 4206.2848 ms\nCzas sredni: 4206.2848 ms\n-------------------------------------\n"
+    },
+    {
+        "instance": "D:\\project_4\\tsp\\kroA100.txt",
+        "output": "-------------------------------------\nNazwa pliku z danymi: D:\\\\project_4\\\\tsp\\\\kroA100.txt\nMinimalny koszt: 59085\nBlad bezwzgledny: 37803\nBlad wzgledny: 177.6290%\nCzas calkowity: 4521.0369 ms\nCzas sredni: 4521.0369 ms\n-------------------------------------\n"
+    },
+    {
+        "instance": "D:\\project_4\\tsp\\kroB150.txt",
+        "output": "-------------------------------------\nNazwa pliku z danymi: D:\\\\project_4\\\\tsp\\\\kroB150.txt\nMinimalny koszt: 98939\nBlad bezwzgledny: 72809\nBlad wzgledny: 278.6414%\nCzas calkowity: 9518.7133 ms\nCzas sredni: 9518.7133 ms\n-------------------------------------\n"
+    },
+    {
+        "instance": "D:\\project_4\\tsp\\tsp10_as.txt",
+        "output": "-------------------------------------\nNazwa pliku z danymi: D:\\\\project_4\\\\tsp\\\\tsp10_as.txt\nMinimalny koszt: 142\nBlad bezwzgledny: 0\nBlad wzgledny: 0.0000%\nCzas calkowity: 233.2154 ms\nCzas sredni: 233.2154 ms\nSciezka dla rozwiazania: 9 -> 6 -> 8 -> 3 -> 5 -> 1 -> 0 -> 7 -> 4 -> 2 -> 9\n-------------------------------------\n"
+    },
+    {
+        "instance": "D:\\project_4\\tsp\\tsp12_as.txt",
+        "output": "-------------------------------------\nNazwa pliku z danymi: D:\\\\project_4\\\\tsp\\\\tsp12_as.txt\nMinimalny koszt: 203\nBlad bezwzgledny: 0\nBlad wzgledny: 0.0000%\nCzas calkowity: 258.5160 ms\nCzas sredni: 258.5160 ms\nSciezka dla rozwiazania: 5 -> 6 -> 3 -> 9 -> 0 -> 2 -> 11 -> 7 -> 10 -> 4 -> 8 -> 1 -> 5\n-------------------------------------\n"
+    },
+    {
+        "instance": "D:\\project_4\\tsp\\ftv33.txt",
+        "output": "-------------------------------------\nNazwa pliku z danymi: D:\\\\project_4\\\\tsp\\\\ftv33.txt\nMinimalny koszt: 1508\nBlad bezwzgledny: 222\nBlad wzgledny: 17.2628%\nCzas calkowity: 774.8053 ms\nCzas sredni: 774.8053 ms\n-------------------------------------\n"
+    },
+    {
+        "instance": "D:\\project_4\\tsp\\ftv38.txt",
+        "output": "-------------------------------------\nNazwa pliku z danymi: D:\\\\project_4\\\\tsp\\\\ftv38.txt\nMinimalny koszt: 1744\nBlad bezwzgledny: 214\nBlad wzgledny: 13.9869%\nCzas calkowity: 953.0911 ms\nCzas sredni: 953.0911 ms\n-------------------------------------\n"
+    },
+    {
+        "instance": "D:\\project_4\\tsp\\ftv64.txt",
+        "output": "-------------------------------------\nNazwa pliku z danymi: D:\\\\project_4\\\\tsp\\\\ftv64.txt\nMinimalny koszt: 2937\nBlad bezwzgledny: 1098\nBlad wzgledny: 59.7064%\nCzas calkowity: 2116.2360 ms\nCzas sredni: 2116.2360 ms\n-------------------------------------\n"
+    },
+    {
+        "instance": "D:\\project_4\\tsp\\ftv70.txt",
+        "output": "-------------------------------------\nNazwa pliku z danymi: D:\\\\project_4\\\\tsp\\\\ftv70.txt\nMinimalny koszt: 3752\nBlad bezwzgledny: 1802\nBlad wzgledny: 92.4103%\nCzas calkowity: 2503.5616 ms\nCzas sredni: 2503.5616 ms\n-------------------------------------\n"
+    },
+    {
+        "instance": "D:\\project_4\\tsp\\rbg323.txt",
+        "output": "-------------------------------------\nNazwa pliku z danymi: D:\\\\project_4\\\\tsp\\\\rbg323.txt\nMinimalny koszt: 3712\nBlad bezwzgledny: 2386\nBlad wzgledny: 179.9397%\nCzas calkowity: 41752.0193 ms\nCzas sredni: 41752.0193 ms\n-------------------------------------\n"
+    }
+]

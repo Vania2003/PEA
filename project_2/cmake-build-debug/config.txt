@@ -1,0 +1,6 @@
+algorithmType = BFS
+dataFile = tsp\tsp_10.txt
+outputFile = results.xls
+timeLimit = 1800
+showProgress = false
+repeats = 1

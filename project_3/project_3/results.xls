@@ -1,0 +1,2 @@
+Nazwa instancji	Wynik optymalny	Sciezka optymalna	Minimalny koszt	Blad bezwzgledny	Blad wzgledny (%)	Czas calkowity (ms)	Czas sredni (ms)
+D:\\project_3\\project_3\\tsp\\tsp_10.txt	212	1 9 6 7 8 4 2 3 0 5 	213	1	0.4717	5.1122	5.1122

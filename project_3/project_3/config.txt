@@ -1,0 +1,16 @@
+data_file=D:\\project_3\\project_3\\tsp\\tsp_10.txt
+output_file=D:\\project_3\\project_3\\results.xls
+repeats=1
+show_progress=false
+initial_solution=2
+swap_way=0
+aspiration_criterion=20
+aspiration_plus=false
+minM=3
+maxM=20
+plus=5
+tabu_list_multiplier=3
+tabu_tenure_multiplier=0.25
+enable_critical_event_handling=true
+maxIterationsWithoutImprovement=400
+termination_time=900000

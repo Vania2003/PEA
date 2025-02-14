@@ -1,0 +1,12 @@
+# ninja log v5
+4	1130	7539329093359983	CMakeFiles/project_1.dir/main.cpp.obj	cf493ffbdf77927d
+1803	2348	7539329105442033	project_1.exe	285b5ec735947383
+1	241	7539844097266341	build.ninja	a17c645efbbbd64e
+16	1567	7539329097800153	CMakeFiles/project_1.dir/config.cpp.obj	36db62f97ccd453d
+10	1297	7539329095065961	CMakeFiles/project_1.dir/tsp_utils.cpp.obj	b48074441dd94cae
+37	1289	7539329094994667	CMakeFiles/project_1.dir/nearestneighbor.cpp.obj	adbe43f1e6c3a094
+29	1803	7539329100132268	CMakeFiles/project_1.dir/randomalgorithm.cpp.obj	96758b5bc377aa64
+23	1447	7539329096590684	CMakeFiles/project_1.dir/bruteforce.cpp.obj	41fe100cd77b67e8
+9	711	7539844097266341	build.ninja	a17c645efbbbd64e
+3	1140	7539844109568457	CMakeFiles/project_1.dir/randomalgorithm.cpp.obj	96758b5bc377aa64
+1141	1920	7539844117282318	project_1.exe	285b5ec735947383

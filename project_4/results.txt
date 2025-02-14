@@ -1,0 +1,174 @@
+Instancja: D:\project_4\tsp\tsp_10.txt
+Wynik:
+-------------------------------------
+Nazwa pliku z danymi: D:\\project_4\\tsp\\tsp_10.txt
+Minimalny koszt: 212
+Blad bezwzgledny: 0
+Blad wzgledny: 0.0000%
+Czas calkowity: 247.6537 ms
+Czas sredni: 247.6537 ms
+Sciezka dla rozwiazania: 8 -> 2 -> 4 -> 3 -> 0 -> 5 -> 1 -> 9 -> 6 -> 7 -> 8
+-------------------------------------
+
+----------------------------------------
+Instancja: D:\project_4\tsp\tsp_12.txt
+Wynik:
+-------------------------------------
+Nazwa pliku z danymi: D:\\project_4\\tsp\\tsp_12.txt
+Minimalny koszt: 264
+Blad bezwzgledny: 0
+Blad wzgledny: 0.0000%
+Czas calkowity: 268.5366 ms
+Czas sredni: 268.5366 ms
+Sciezka dla rozwiazania: 0 -> 1 -> 8 -> 4 -> 6 -> 2 -> 11 -> 9 -> 7 -> 5 -> 3 -> 10 -> 0
+-------------------------------------
+
+----------------------------------------
+Instancja: D:\project_4\tsp\gr21.txt
+Wynik:
+-------------------------------------
+Nazwa pliku z danymi: D:\\project_4\\tsp\\gr21.txt
+Minimalny koszt: 2707
+Blad bezwzgledny: 0
+Blad wzgledny: 0.0000%
+Czas calkowity: 457.3247 ms
+Czas sredni: 457.3247 ms
+-------------------------------------
+
+----------------------------------------
+Instancja: D:\project_4\tsp\gr24.txt
+Wynik:
+-------------------------------------
+Nazwa pliku z danymi: D:\\project_4\\tsp\\gr24.txt
+Minimalny koszt: 1272
+Blad bezwzgledny: 0
+Blad wzgledny: 0.0000%
+Czas calkowity: 516.0161 ms
+Czas sredni: 516.0161 ms
+-------------------------------------
+
+----------------------------------------
+Instancja: D:\project_4\tsp\gr96.txt
+Wynik:
+-------------------------------------
+Nazwa pliku z danymi: D:\\project_4\\tsp\\gr96.txt
+Minimalny koszt: 163335
+Blad bezwzgledny: 108126
+Blad wzgledny: 195.8485%
+Czas calkowity: 4206.2848 ms
+Czas sredni: 4206.2848 ms
+-------------------------------------
+
+----------------------------------------
+Instancja: D:\project_4\tsp\kroA100.txt
+Wynik:
+-------------------------------------
+Nazwa pliku z danymi: D:\\project_4\\tsp\\kroA100.txt
+Minimalny koszt: 59085
+Blad bezwzgledny: 37803
+Blad wzgledny: 177.6290%
+Czas calkowity: 4521.0369 ms
+Czas sredni: 4521.0369 ms
+-------------------------------------
+
+----------------------------------------
+Instancja: D:\project_4\tsp\kroB150.txt
+Wynik:
+-------------------------------------
+Nazwa pliku z danymi: D:\\project_4\\tsp\\kroB150.txt
+Minimalny koszt: 98939
+Blad bezwzgledny: 72809
+Blad wzgledny: 278.6414%
+Czas calkowity: 9518.7133 ms
+Czas sredni: 9518.7133 ms
+-------------------------------------
+
+----------------------------------------
+Instancja: D:\project_4\tsp\tsp10_as.txt
+Wynik:
+-------------------------------------
+Nazwa pliku z danymi: D:\\project_4\\tsp\\tsp10_as.txt
+Minimalny koszt: 142
+Blad bezwzgledny: 0
+Blad wzgledny: 0.0000%
+Czas calkowity: 233.2154 ms
+Czas sredni: 233.2154 ms
+Sciezka dla rozwiazania: 9 -> 6 -> 8 -> 3 -> 5 -> 1 -> 0 -> 7 -> 4 -> 2 -> 9
+-------------------------------------
+
+----------------------------------------
+Instancja: D:\project_4\tsp\tsp12_as.txt
+Wynik:
+-------------------------------------
+Nazwa pliku z danymi: D:\\project_4\\tsp\\tsp12_as.txt
+Minimalny koszt: 203
+Blad bezwzgledny: 0
+Blad wzgledny: 0.0000%
+Czas calkowity: 258.5160 ms
+Czas sredni: 258.5160 ms
+Sciezka dla rozwiazania: 5 -> 6 -> 3 -> 9 -> 0 -> 2 -> 11 -> 7 -> 10 -> 4 -> 8 -> 1 -> 5
+-------------------------------------
+
+----------------------------------------
+Instancja: D:\project_4\tsp\ftv33.txt
+Wynik:
+-------------------------------------
+Nazwa pliku z danymi: D:\\project_4\\tsp\\ftv33.txt
+Minimalny koszt: 1508
+Blad bezwzgledny: 222
+Blad wzgledny: 17.2628%
+Czas calkowity: 774.8053 ms
+Czas sredni: 774.8053 ms
+-------------------------------------
+
+----------------------------------------
+Instancja: D:\project_4\tsp\ftv38.txt
+Wynik:
+-------------------------------------
+Nazwa pliku z danymi: D:\\project_4\\tsp\\ftv38.txt
+Minimalny koszt: 1744
+Blad bezwzgledny: 214
+Blad wzgledny: 13.9869%
+Czas calkowity: 953.0911 ms
+Czas sredni: 953.0911 ms
+-------------------------------------
+
+----------------------------------------
+Instancja: D:\project_4\tsp\ftv64.txt
+Wynik:
+-------------------------------------
+Nazwa pliku z danymi: D:\\project_4\\tsp\\ftv64.txt
+Minimalny koszt: 2937
+Blad bezwzgledny: 1098
+Blad wzgledny: 59.7064%
+Czas calkowity: 2116.2360 ms
+Czas sredni: 2116.2360 ms
+-------------------------------------
+
+----------------------------------------
+Instancja: D:\project_4\tsp\ftv70.txt
+Wynik:
+-------------------------------------
+Nazwa pliku z danymi: D:\\project_4\\tsp\\ftv70.txt
+Minimalny koszt: 3752
+Blad bezwzgledny: 1802
+Blad wzgledny: 92.4103%
+Czas calkowity: 2503.5616 ms
+Czas sredni: 2503.5616 ms
+-------------------------------------
+
+----------------------------------------
+Instancja: D:\project_4\tsp\rbg323.txt
+Wynik:
+-------------------------------------
+Nazwa pliku z danymi: D:\\project_4\\tsp\\rbg323.txt
+Minimalny koszt: 3712
+Blad bezwzgledny: 2386
+Blad wzgledny: 179.9397%
+Czas calkowity: 41752.0193 ms
+Czas sredni: 41752.0193 ms
+-------------------------------------
+
+----------------------------------------
+
+Podsumowanie:

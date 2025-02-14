@@ -1,0 +1,12 @@
+data_file=D:\\project_4\\tsp\\tsp_10.txt
+output_file=D:\\project_4\\results.xls
+repeats=1
+show_progress=false
+population_size=500
+max_generations=400
+mutation_probability=0.3
+selectionMethod=tournament
+crossoverMethod=ox
+crossover_probability=0.9
+elitePercentage=0.3
+timeout=300

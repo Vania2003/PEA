@@ -1,0 +1,9 @@
+# ninja log v5
+10	1277	7539341771734392	CMakeFiles/project_2.dir/tsp_utils.cpp.obj	bc3e70167e5e4bd7
+2	2053	7539895242509265	CMakeFiles/project_2.dir/branch_and_bound.cpp.obj	d90d22a05b2436fe
+3	584	7539353943628918	CMakeFiles/project_2.dir/main.cpp.obj	66101d28d2be76e7
+2053	2570	7539895247923881	project_2.exe	6696d8ee9784574f
+9	722	7539903957321570	build.ninja	7be8fa082d790dc4
+0	181	7539903957321570	build.ninja	7be8fa082d790dc4
+2	1267	7539903970710826	CMakeFiles/project_2.dir/branch_and_bound.cpp.obj	d90d22a05b2436fe
+1268	1666	7539903974636156	project_2.exe	6696d8ee9784574f

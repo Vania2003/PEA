@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/project_4.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/project_4.dir/genetic_algorithm.cpp.obj: dyndep
+
+build CMakeFiles/project_4.dir/tsp_utils.cpp.obj: dyndep
+
